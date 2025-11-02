@@ -34,14 +34,14 @@ print(a < b)
 print(a == b)
 print(a != b)
 
-nama1 = "Eko"
-nama2 = "Joko"
-nama3 = "Eko"
+nama1 = "Rara"
+nama2 = "Syifa"
+nama3 = "Rara"
 
 print(nama1 == nama2)
 print(nama1 == nama3)
 
-umur = 25
+umur = 22
 print(umur > 18 and umur < 30)
 
 hari = "Sabtu"
@@ -50,8 +50,8 @@ print(hari == "Sabtu" or hari == "Minggu")
 aktif = True
 print(not aktif)
 
-nama_depan = "Eko"
-nama_belakang = "Khannedy"
+nama_depan = "Rara"
+nama_belakang = "Syifa"
 nama_lengkap = nama_depan + " " + nama_belakang
 print(nama_lengkap)
 
